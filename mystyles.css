@@ -12,6 +12,11 @@ h2 {
 	font-size: 24
 }
 
+summary{
+		margin:15px 15px 15px 10px
+		font-family:Arial
+		font-size:24
+		}
 
 p {
 	font: arial
