@@ -7,19 +7,19 @@ h1 {
 }
 
 h2 {
-	font: arial;
+	font-family: arial;
 	color: black;
 	font-size: 24;
 }
 
-summary{
-		margin:15px 15px 15px 10px;
-		font-family:Arial;
-		font-size:24;
+summary {
+		margin: 15px 15px 15px 10px;
+		font-family: arial;
+		font-size: 24;
 		}
 
 p {
-	font: arial;
+	font-family: arial;
 	line-height: 1;
 	font-size: 16;
 }
