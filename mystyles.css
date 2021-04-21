@@ -1,26 +1,26 @@
 
 
 h1 {
-	font: arial
-	color: blue
+	font: arial;
+	color: blue;
 	font-size: 32
 }
 
 h2 {
-	font: arial
-	color: black
+	font: arial;
+	color: black;
 	font-size: 24
 }
 
 summary{
-		margin:15px 15px 15px 10px
-		font-family:Arial
+		margin:15px 15px 15px 10px;
+		font-family:Arial;
 		font-size:24
 		}
 
 p {
-	font: arial
-	line-height: 1
+	font: arial;
+	line-height: 1;
 	font-size: 16
 }
 
