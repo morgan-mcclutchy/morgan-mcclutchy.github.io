@@ -16,7 +16,7 @@ banner {
 	display: block;
 	
 h1 {
-	border-top: 4px solid white;
+	border: 4px solid white;
     color: #00374f;
     display: inline-block;
     min-height: 70px;
@@ -47,9 +47,6 @@ h2 {
 	
 }
 }
-
-
-.about {
 	
 	
 .summary {
@@ -63,6 +60,5 @@ p {
 	line-height: 1;
 	font-size: 16;
 }
-
-.P1 {
+}
 	
